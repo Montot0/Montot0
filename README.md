@@ -1,4 +1,4 @@
-![Banner](https://d2kd1atb170pxv.cloudfront.net/var/site/storage/images/_aliases/gradient_bg/5/2/3/3/833325-1-esl-ES/a0cbc3450198-AdobeStock_1029069030-1-.jpg)
+![Banner](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
 
 
