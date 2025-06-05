@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Jorge Montoto
 
-<!--
-**Montot0/Montot0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Cybersecurity Engineering student at **Universidad Rey Juan Carlos (URJC)**, Móstoles campus (Madrid, Spain).
 
-Here are some ideas to get you started:
+I'm passionate about ethical hacking, secure software development, and digital systems. I'm especially interested in network security, digital forensics, and reverse engineering. I'm constantly learning and building small projects to strengthen my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+- **Programming Languages:** C, Java, JavaScript, HTML, CSS  
+- **Cybersecurity Tools:** Kali Linux, Wireshark, Nmap, Burp Suite (basic knowledge)  
+- **Development Tools:** Git, GitHub, Visual Studio Code  
+- **Operating Systems:** Linux (Ubuntu/Kali), Windows
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [j.montoto.lozano05@gmail.com](mailto:j.montoto.lozano05@gmail.com)
+- 💻 GitHub: [github.com/tuusuario](https://github.com/Montot0)
+- 💼 LinkedIn: *(coming soon or insert your link here)*
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration, feedback, or opportunities.
+
