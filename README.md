@@ -22,7 +22,7 @@ I'm passionate about ethical hacking, secure software development, and digital s
 ## 📫 Connect with Me
 
 - 📧 Email: [j.montoto.lozano05@gmail.com](mailto:j.montoto.lozano05@gmail.com)
-- 💻 GitHub: [github.com/tuusuario](https://github.com/Montot0)
+- 💻 GitHub: [github.com/Montot0](https://github.com/Montot0)
 - 💼 LinkedIn: [linkedin.com/jorge-montoto-lozano](https://www.linkedin.com/in/jorge-montoto-lozano-a5017336a/)
 
 ---
